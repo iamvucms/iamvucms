@@ -19,7 +19,7 @@ Currently I'm **contributing and owner** following projects:
 - 🤔 I’m looking for help with Math, React Native Animation
 - 💬 Ask me about React, React Native, Javascript
 - 📫 How to reach me: [**Facebook**](https://www.facebook.com/DevV.systems)
-- ⚡ Fun fact: Nothing be limit, limit is your thoughts
+- ⚡ Fun fact: Nothing be limit, limit in your thoughts
 <!-- - 😄 Pronouns: ... -->
 <!--
 **iamvucms/iamvucms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
