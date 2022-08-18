@@ -20,7 +20,6 @@ Currently I'm **contributing and owner** following projects:
 - 👯 I’m looking to collaborate on Javascript
 - 🤔 I’m looking for help with Math, React Native Animation
 - 💬 Ask me about React, React Native, Javascript
-- 📫 How to reach me: [**Facebook**](https://www.facebook.com/DevV.systems)
 - ⚡ Fun fact: Nothing be limit, limit in your thoughts
 <!-- - 😄 Pronouns: ... -->
 <!--
