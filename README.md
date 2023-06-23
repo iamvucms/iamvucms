@@ -11,7 +11,7 @@ Currently I'm **contributing and owner** following projects:
 |-------------|----------|---------|---|---|
 | [**Deep Clone Instagram**](https://github.com/iamvucms/react-native-instagram-clone) | [![GitHub PRs](https://img.shields.io/github/stars/iamvucms/react-native-instagram-clone?style=flat&logo=github)](https://github.com/iamvucms/react-native-instagram-clone) | [![GitHub issues](https://img.shields.io/github/issues/iamvucms/react-native-instagram-clone?color=green&logo=github&style=flat)](https://github.com/iamvucms/react-native-instagram-clone/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/iamvucms/react-native-instagram-clone?style=flat&logo=github)](https://github.com/iamvucms/react-native-instagram-clone/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/iamvucms/react-native-instagram-clone?style=flat&color=critical&logo=github)](https://github.com/iamvucms/react-native-instagram-clone/pulls?q=is%3Apr+is%3Aclosed)  |
 | [**Facebook UI Clone**](https://github.com/iamvucms/react-native-facebook-clone/) | [![GitHub PRs](https://img.shields.io/github/stars/iamvucms/react-native-facebook-clone?style=flat&logo=github)](https://github.com/iamvucms/react-native-facebook-clone) | [![GitHub issues](https://img.shields.io/github/issues/iamvucms/react-native-facebook-clone?color=green&logo=github&style=flat)](https://github.com/iamvucms/react-native-facebook-clone/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/iamvucms/react-native-facebook-clone?style=flat&logo=github)](https://github.com/iamvucms/react-native-facebook-clone/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/iamvucms/react-native-facebook-clone?style=flat&color=critical&logo=github)](https://github.com/iamvucms/react-native-facebook-clone/pulls?q=is%3Apr+is%3Aclosed)   |
-| [**Laravel B2C Shopping**](https://github.com/iamvucms/rozy/) | [![GitHub PRs](https://img.shields.io/github/stars/iamvucms/rozy?style=flat&logo=github)](https://github.com/iamvucms/rozy/) | [![GitHub issues](https://img.shields.io/github/issues/iamvucms/rozy?color=green&logo=github&style=flat)](https://github.com/iamvucms/rozy/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/iamvucms/rozy?style=flat&logo=github)](https://github.com/iamvucms/rozy/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/iamvucms/rozy?style=flat&color=critical&logo=github)](https://github.com/iamvucms/rozy/pulls?q=is%3Apr+is%3Aclosed)   |
+| [**X-Gram**](https://github.com/iamvucms/rozy/) | [![GitHub PRs](https://img.shields.io/github/stars/iamvucms/x-gram?style=flat&logo=github)](https://github.com/iamvucms/x-gram/) | [![GitHub issues](https://img.shields.io/github/issues/iamvucms/x-gram?color=green&logo=github&style=flat)](https://github.com/iamvucms/x-gram/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/iamvucms/x-gram?style=flat&logo=github)](https://github.com/iamvucms/x-gram/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/iamvucms/x-gram?style=flat&color=critical&logo=github)](https://github.com/iamvucms/x-gram/pulls?q=is%3Apr+is%3Aclosed)   |
 
 <!-- <sup>**[Click here](https://github.com/iamvucms/jobtweets/blob/master/PROJECTS.md)** *to view my other projects.</sup>* -->
 
@@ -20,19 +20,4 @@ Currently I'm **contributing and owner** following projects:
 - 👯 I’m looking to collaborate on Javascript
 - 🤔 I’m looking for help with Math, React Native Animation
 - 💬 Ask me about React, React Native, Javascript
-- ⚡ Fun fact: Nothing be limit, limit in your thoughts
-<!-- - 😄 Pronouns: ... -->
-<!--
-**iamvucms/iamvucms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Talk is cheap, show me your apps :D
